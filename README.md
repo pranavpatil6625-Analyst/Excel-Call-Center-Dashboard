@@ -6,11 +6,6 @@ The dashboard tracks **key KPIs, agent performance, customer satisfaction, and c
 
 ---
 
-## 📊 Dashboard Preview
-![Call Center Dashboard](Call Center Dashboard.jpg)
-
----
-
 ## 🔹 Key Metrics (KPIs)
 - **Total Calls:** 1000  
 - **Total Purchase Value:** $96,623  
@@ -57,4 +52,8 @@ The dashboard tracks **key KPIs, agent performance, customer satisfaction, and c
 
 ## 🔹 Tools Used
 
-- **Excel / CSV** – Data preprocessing & Dashboard Creation  
+- **Excel / CSV** – Data preprocessing & Dashboard Creation
+
+  
+## 📊 Dashboard Preview
+![Call Center Dashboard](https://github.com/pranavpatil6625-Analyst/Excel-Call-Center-Dashboard/blob/main/Call%20Center%20Dashboard.jpg)
