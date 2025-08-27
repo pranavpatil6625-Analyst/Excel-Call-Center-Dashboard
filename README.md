@@ -7,7 +7,7 @@ The dashboard tracks **key KPIs, agent performance, customer satisfaction, and c
 ---
 
 ## 📊 Dashboard Preview
-![Call Center Dashboard]()
+![Call Center Dashboard](Call Center Dashboard.jpg)
 
 ---
 
